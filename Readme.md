@@ -3,7 +3,7 @@
 Generate a thumbnail of any website.
 Written in Go and Vue. This project uses [screenshotapi.net](https://screenshotapi.net) head over there to create an account and get an API token.
 
-[View the live version here!](todo)
+[View the live version here!](https://coffeecoding.dev/website-thumbnail-generator)
 
 ## Go server
 
@@ -11,7 +11,7 @@ Written in Go and Vue. This project uses [screenshotapi.net](https://screenshota
 
 To run the go server run the following command from the project root directory.
 
-```go
+```
 go run main/server.go
 ```
 
